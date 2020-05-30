@@ -1,0 +1,29 @@
+<svg width="35" height="59" viewBox="0 0 35 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.91666 55.4165L8.26388 32.5693L8.50693 31.8401C12.6389 34.7568 18.2292 34.8378 20.4167 34.2706L14.5833 58.0901L10.2083 50.5554L2.91666 55.4165Z" fill="#FCC71F"/>
+<circle cx="17.743" cy="17.7432" r="10.9375" fill="url(#paint0_linear)"/>
+<circle cx="28.9236" cy="6.5625" r="2.1875" fill="#FFD707"/>
+<circle cx="31.8403" cy="11.9097" r="2.1875" fill="#FFD707"/>
+<circle cx="32.8125" cy="17.7432" r="2.1875" fill="#FFD707"/>
+<circle cx="31.8403" cy="24.0623" r="2.1875" fill="#FFD707"/>
+<circle cx="28.9236" cy="28.9236" r="2.1875" fill="#FFD707"/>
+<circle cx="6.5625" cy="28.9236" r="2.1875" fill="#FFD707"/>
+<circle cx="3.15973" cy="23.5764" r="2.1875" fill="#FFD707"/>
+<circle cx="3.64584" cy="10.9375" r="2.1875" fill="#FFD707"/>
+<circle cx="7.04861" cy="6.07617" r="2.1875" fill="#FFD707"/>
+<circle cx="12.3958" cy="2.67358" r="2.1875" fill="#FFD707"/>
+<circle cx="17.743" cy="2.1875" r="2.1875" fill="#FFD707"/>
+<circle cx="24.0625" cy="3.15967" r="2.1875" fill="#FFD707"/>
+<circle cx="2.1875" cy="17.7432" r="2.1875" fill="#FFD707"/>
+<circle cx="17.7431" cy="17.7432" r="14.2847" stroke="url(#paint1_linear)" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M26.7361 32.0835C25.5694 33.2502 22.5231 34.0279 21.1458 34.271L18.7153 44.4793C20.1736 48.8543 23.0903 57.7016 23.0903 58.0904C23.0903 58.4793 25.5208 53.3914 26.7361 50.7988L34.0278 55.1738L26.7361 32.0835Z" fill="#FFE972"/>
+<defs>
+<linearGradient id="paint0_linear" x1="10.6944" y1="7.53483" x2="25.7639" y2="27.2223" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE660" stop-opacity="0.94"/>
+<stop offset="0.697917" stop-color="#FFD707"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="-0.243046" y1="-0.729003" x2="27.9514" y2="32.8127" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAB400"/>
+<stop offset="0.651042" stop-color="#FFE24B"/>
+</linearGradient>
+</defs>
+</svg>
