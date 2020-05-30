@@ -154,7 +154,7 @@ class HomeCenter extends Component {
                 <p class='fw600 fs36'>Our Success Stories</p>
               </h1>
             </div>
-            <div class='flex flex-wrap -m-4'>
+            <div class='flex flex-wrap -m-4 marquee'>
               <div class='p-4 md:w-1/3'>
                 <div
                   class='flex rounded-lg h-full bg-gray-100 p-8 flex-col'
