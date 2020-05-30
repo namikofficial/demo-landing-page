@@ -84,7 +84,7 @@ function App() {
             <a className='text-white mr-5 hover:text-gray-900'>Case study</a>
             <a className='text-white mr-5 hover:text-gray-900'>Contact Us</a>
           </nav>
-          <button className='inline-flex items-center cta-nav bg-gray-200 border-0 py-1 px-3 text-white focus:outline-none hover:bg-gray-300 audit_btn   bg-indigo-500 text-base mt-4 md:mt-0'>
+          <button className='inline-flex items-center cta-nav bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 audit_btn text-base mt-4 md:mt-0'>
             Schedule a call
             <svg
               fill='none'
